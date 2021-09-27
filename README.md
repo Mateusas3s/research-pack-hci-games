@@ -2,7 +2,11 @@
 
 ## Introducao
 
-Com o intuito de auxiliar o processo de desenvolvimento de jogos sérios digitais que apoiem o ensino e aprendizagem na área de Ciência da Computação, este survey serviu como ferramenta para alcançar o objetivo do trabalho "Aspectos de Qualidade em Jogos Sérios Digitais". O objetivo deste trabalho foi analisar  os aspectos  de  qualidade  em jogos sérios  digitais que auxiliaram  no  processo  de ensino e aprendizagem  de  estudantes de graduação e pós-graduação na ́area  de  Ciência  da  Computação.  Os  aspectos  de qualidades,  considerados  nesse  trabalho,  foram  os  requisitos  de  qualidade  do  jogo e a experiência do usuário (jogador).
+Com o intuito de auxiliar o processo de desenvolvimento de jogos sérios digitais que apoiem o ensino e aprendizagem na área de Ciência da Computação, este survey serviu como ferramenta para alcançar o objetivo do artigo "Aspectos de Qualidade em Jogos Sérios Digitais" e do Trabalho de Conclusão de Curso (TCC) "Elenco de Personas para o Auxílio ao Desenvolvimento de Jogos Digitais paraAprendizagem". 
+
+O objetivo do artigo foi analisar os aspectos de qualidade  em jogos sérios  digitais que auxiliaram  no  processo  de ensino e aprendizagem  de  estudantes de graduação e pós-graduação na ́area  de  Ciência  da  Computação.  Os  aspectos  de qualidades,  considerados  nesse  trabalho,  foram  os  requisitos  de  qualidade  do  jogo e a experiência do usuário (jogador).
+
+já o objetivo do TCC foi elaborar um elenco de personas para auxiliar o desenvolvimento de jogos digitais para aprendizagem em Interação Humano-Computador. Os jogos digitais para o qual o elenco de persona foi projetado faz parte do mesmo projeto que o este survey, Recursos Digitais Didáticos para Interação Humano-Computador. 
 
 A Figura abaixo apresenta as etapas para realização de um survey segundo Kasunic (2005):
 
@@ -34,7 +38,16 @@ Neste Survey, o público-alvo definido foram alunos de graduação e pós-gradua
 
 ##  3. Projetar plano de amostragem
 
-Foi planejado para este estudo, um período de quatro semanas para a coleta dos dados, ou seja, a amostra de pesquisa foram os respondentes do dia 06/10/2020 ao dia 27/10/2020.
+Durante esta fase, o pesquisador deve determinar:
+
+- como os indivíduos serão selecionados para participar da pesquisa
+- o tamanho necessário da amostra
+
+Essas considerações têm consequências significativas em como os resultados podem ser generalizados, além da amostra e em quanta precisão e confiança você pode expressar sobre os resultados.
+
+Conforme citado na introdução deste documento, o propósito de uso dos aspectos de qualidade foi servir para a construção do elenco de personas, que por sua vez objetiva auxiliar no desenvolvimento de jogos para serem aplicados na disciplina de IHC en cursos da área de Computação. Sendo assim não foi pretendido que os resultados deste estudo fossem generalizados para além do público-alvo do survey.
+
+No caso foi planejada uma amostragem não probabilística, na qual a amostra foi obtida através do envio do questionário pela Web, o qual as pessoas poderiam responder ou não. A coleta dos dados por meio do quationário de pesquisa foi planejado para ser realizada num período de quatro semanas. A amostra de pesquisa contemplou as pessoas que responderam o quationário dentre os dia 06/10/2020 e dia 27/10/2020.
 
 ##  4. Projetar e escrever questionário
 
